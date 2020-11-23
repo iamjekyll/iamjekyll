@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Introduction
+My name is Andang Vijayanto Utomo, I’m currently working on Latoko.com project. Latoko.com is an e-commerce that sells gift products, example: Wedding gifts, Christmast Gift, and ect.
+
+### Technology
+- React.js
+- Angular.js
+- jQuery
+- Python
+- Django
+- Golang
+- Node.js
